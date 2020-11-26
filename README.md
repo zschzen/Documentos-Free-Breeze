@@ -19,7 +19,7 @@
 
 
 [//]: (Referências)
-[Desenvolvimento de Jogos Multiplayer]: <>
-[Legislação]: <>
-[Auditoria e Qualidade]: <>
-[Marketing]: <>
+[Desenvolvimento de Jogos Multiplayer]: <./tree/main/Desenvolvimento%20de%20Jogos%20Multiplayer>
+[Legislação]: <./tree/main/Legislação>
+[Auditoria e Qualidade]: <./tree/main/Auditoria%20e%20Qualidade>
+[Marketing]: <./tree/main/Marketing>
