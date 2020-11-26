@@ -4,7 +4,7 @@
 
 #### Sobre
 
-    Uma produção enquanto estudantes de 3º período de Jogos Digitais pela Faculdade de Tecnologia Senac Goiás, em Goiânia.
+    Uma produção enquanto estudantes de 5º período de Jogos Digitais pela Faculdade de Tecnologia Senac Goiás, em Goiânia.
 
 ##### Integrantes
 - Dyego Marques Souza Costa
