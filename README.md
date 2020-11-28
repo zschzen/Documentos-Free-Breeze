@@ -4,8 +4,8 @@
 
 ##### Apresentação
 ##### 27 de Novembro de 2020
-<a target="_blank" href="https://www.canva.com/design/DAEMmF5FZbQ/0VsRBsC20ROwXHDmbZR0xQ/view?utm_content=DAEMmF5FZbQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer"><img height=26 width=26 src=https://simpleicons.org/icons/canva.svg title=Canvas /></a>
-<a target="_blank" href="https://photos.app.goo.gl/J94gkETB1PAJg8kSAr"><img height=26 width=26 src=https://simpleicons.org/icons/youtube.svg title=YouTube /></a>
+<a target="_blank" href="https://www.canva.com/design/DAEMmF5FZbQ/0VsRBsC20ROwXHDmbZR0xQ/view?utm_content=DAEMmF5FZbQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer"><img height=64 width=64 src=https://simpleicons.org/icons/canva.svg title=Canvas /></a>
+<a target="_blank" href="https://photos.app.goo.gl/J94gkETB1PAJg8kSAr"><img height=64 width=64 src=https://simpleicons.org/icons/youtube.svg title=YouTube /></a>
 
 #### Sobre
 
