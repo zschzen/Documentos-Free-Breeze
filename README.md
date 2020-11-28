@@ -27,8 +27,8 @@
 
 
 [//]: (Referências)
-[Apresentação]: <https://www.canva.com/design/DAEMmF5FZbQ/0VsRBsC20ROwXHDmbZR0xQ/view?utm_content=DAEMmF5FZbQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer>
-[Desenvolvimento de Jogos Multiplayer]: <./Desenvolvimento%20de%20Jogos%20Multiplayer>
-[Legislação]: <./Legislação>
-[Auditoria e Qualidade]: <./Auditoria%20e%20Qualidade>
-[Marketing]: <./Marketing>
+[GDD]: <./Desenvolvimento%20de%20Jogos%20Multiplayer>
+[Termos de uso]: <./Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
+[Política de privacidade]: <./Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
+[Gerência de Configuração]: <./Auditoria%20e%20Qualidade>
+[Buyer Persona]: <./Marketing>
