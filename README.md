@@ -25,7 +25,7 @@
 - [Termos de uso]
 - [Política de privacidade]
 - [Auditoria e Qualidade]
-- [Buyer Persona]
+- [Buyer Personas]
 
 
 [//]: (Referências)
