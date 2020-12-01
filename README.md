@@ -8,8 +8,6 @@
 
 #### Sobre
 
-[Edital]
-
     Uma produção enquanto estudantes de 5º período de Jogos Digitais pela Faculdade de Tecnologia Senac Goiás, em Goiânia.
 
 ##### Integrantes
@@ -21,13 +19,18 @@
 
 > Um acampamento de verão, com diversas gincanas e atividades lúdicas, saudáveis e competitivas para todas as idades.
 
-#### Entregáveis
+#### Documentação
 
-- [GDD]
-- [Termos de uso]
-- [Política de privacidade]
-- [Auditoria e Qualidade]
-- [Buyer Personas]
+- [Edital]
+- Desenvolvimento de Jogos Multiplayer
+    - [GDD]
+- Legislação de Software
+    - [Termos de uso]
+    - [Política de privacidade]
+- Auditoria e Qualidade
+    - [Plano de Gerenciamento de Configuração]
+- Marketing
+    - [Buyer Personas]
 
 
 [//]: (Referências)
@@ -35,5 +38,5 @@
 [GDD]: <./Desenvolvimento%20de%20Jogos%20Multiplayer>
 [Termos de uso]: <./Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
 [Política de privacidade]: <./Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
-[Auditoria e Qualidade]: <./Auditoria%20e%20Qualidade>
+[Plano de Gerenciamento de Configuração]: <./Auditoria%20e%20Qualidade>
 [Buyer Personas]: <./Marketing>
