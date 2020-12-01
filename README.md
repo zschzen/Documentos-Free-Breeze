@@ -38,5 +38,5 @@
 [GDD]: <./Desenvolvimento%20de%20Jogos%20Multiplayer>
 [Termos de uso]: <./Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
 [Política de privacidade]: <./Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
-[Plano de Gerenciamento de Configuração]: <./Auditoria%20e%20Qualidade>
+[Plano de Gerenciamento de Configuração]: <./Auditoria%20e%20Qualidade/Plano%20de%20Gerenciamento%20de%20Configuração%20de%20Software.pdf>
 [Buyer Personas]: <./Marketing>
