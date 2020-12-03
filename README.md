@@ -34,9 +34,9 @@
 
 
 [//]: (Referências)
-[Edital]: <./Edital.pdf>
-[GDD]: <./Desenvolvimento%20de%20Jogos%20Multiplayer>
-[Termos de uso]: <./Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
-[Política de privacidade]: <./Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
-[Plano de Gerenciamento de Configuração]: <./Auditoria%20e%20Qualidade/Plano%20de%20Gerenciamento%20de%20Configuração%20de%20Software.pdf>
-[Buyer Personas]: <./Marketing>
+[Edital]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Edital.pdf>
+[GDD]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Desenvolvimento%20de%20Jogos%20Multiplayer>
+[Termos de uso]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
+[Política de privacidade]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
+[Plano de Gerenciamento de Configuração]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Auditoria%20e%20Qualidade/Plano%20de%20Gerenciamento%20de%20Configuração%20de%20Software.pdf>
+[Buyer Personas]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Marketing>
