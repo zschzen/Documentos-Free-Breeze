@@ -24,6 +24,8 @@
 - [Edital]
 - Desenvolvimento de Jogos Multiplayer
     - [GDD]
+- Tecnologias Emergentes
+    - [Tecnologias utilizadas]
 - Legislação de Software
     - [Termos de uso]
     - [Política de privacidade]
@@ -36,6 +38,7 @@
 [//]: (Referências)
 [Edital]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Edital.pdf>
 [GDD]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Desenvolvimento%20de%20Jogos%20Multiplayer>
+[Tecnologias utilizadas]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Tecnologias%20Emergentes/Tecnologias%20utilizadas.pdf>
 [Termos de uso]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Legislação/LICENÇA%20DE%20USO%20-%20Free%20Breeze.pdf>
 [Política de privacidade]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Legislação/Política%20de%20Privacidade%20-%20Free%20Breeze.pdf>
 [Plano de Gerenciamento de Configuração]: <https://github.com/zschzen/Documentos-Free-Breeze/blob/main/Auditoria%20e%20Qualidade/Plano%20de%20Gerenciamento%20de%20Configuração%20de%20Software.pdf>
